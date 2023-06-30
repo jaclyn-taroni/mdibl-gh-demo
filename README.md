@@ -1,4 +1,4 @@
-# 2022-mdibl-gh-demo
+# MDIBL FAIR Bioinformatics GitHub demo
 
 A repository for practicing with GitHub
 
